@@ -4,11 +4,15 @@ Slug: about
 
 # Phillip Bruno
 
+---
+
 ## Developer and Manager
 
 I'm a data expert with years of experience under my belt. My main passions are developing ETL solutions, building business intelligence tools, and digging into reporting analytics to uncover insights.
 
 I love working closely with clients - both inside and outside our company - to identify new opportunities and make them happen. When I'm not doing that, you can find me helping out my teammates, whether it's teaching them new skills or just being a sounding board for their ideas. Over the years, I've focused on streamlining processes and finding ways to automate tasks, which has saved us tons of time and money. It's been a blast, and I'm excited to see where this journey takes me next!
+
+---
 
 ## Hobbies
 
@@ -19,6 +23,8 @@ I love working closely with clients - both inside and outside our company - to i
 
 - Turn-Based Strategy Games
     - I'm an avid player of turn-based strategy games and have been since the 90's. I'm drawn to their complex mechanics, strategic depth, and the satisfaction of outmaneuvering opponents (usually NPCs). Games like [Civilization](https://en.wikipedia.org/wiki/Civilization_(series)), [XCOM](https://en.wikipedia.org/wiki/XCOM:_Enemy_Unknown) and [Into the Breach](https://en.wikipedia.org/wiki/Into_the_Breach) really help provide an outlet for blowing off steam while challenging my brain.
+
+---
 
 ## Books
 - History of Science

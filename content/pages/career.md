@@ -6,7 +6,7 @@ Slug: career
 
 ---
 
-## Lead Data Engineer, Exostatic Inc.
+## Lead Data Engineer, [Exostatic Inc.](https://www.exostatic.com/)
 ### Exostatic Inc., Toronto, ON
 #### 2021 - Present
 
@@ -19,7 +19,7 @@ Slug: career
 
 ---
 
-## Senior Manager of Business Intelligence, Omnicom Media Group
+## Senior Manager of Business Intelligence, [Omnicom Media Group](https://omnicommediagroup.com/)
 ### Omnicom Media Group, Toronto, ON
 #### 2019 - 2021
 
@@ -31,7 +31,7 @@ I streamlined business operations by automating ETL processes, boosting efficien
 
 ---
 
-## Intermediate Reporting Analyst, Omnicom Media Group
+## Intermediate Reporting Analyst, [Omnicom Media Group](https://omnicommediagroup.com/)
 ### Omnicom Media Group, Toronto, ON
 #### 2017 - 2019
 
@@ -44,7 +44,7 @@ Earned a bronze REAP award for assisting a client with an urgent deadline throug
 
 ---
 
-## Senior Business Systems Analyst, Rogers Sports and Media
+## Senior Business Systems Analyst, [Rogers Sports and Media](https://www.rogerssportsandmedia.com/)
 ### Rogers Sports and Media, Toronto, ON
 #### 2012 - 2017
 

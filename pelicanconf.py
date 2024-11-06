@@ -1,6 +1,37 @@
 # Import the necessary module
 from datetime import datetime
 
+
+'''
+Build configuration settings
+'''
+
+# Defines whether Pelican should use document-relative URLs or not. Only set this to True when developing/testing and only if you fully understand the effect it can have on links/feeds
+
+# Uncomment following line if you want document-relative URLs when developing
+# RELATIVE_URLS = True
+
+# Delete the output directory, and all of its contents, before generating new files. This can be useful in preventing older, unnecessary files from persisting in your output. However, this is a destructive setting and should be handled with extreme care.
+DELETE_OUTPUT_DIRECTORY = False
+
+# Feed generation is usually not desired when developing
+FEED_ALL_ATOM = None
+CATEGORY_FEED_ATOM = None
+TRANSLATION_FEED_ATOM = None
+AUTHOR_FEED_ATOM = None
+AUTHOR_FEED_RSS = None
+
+# Theme color settings
+THEME_COLOR_AUTO_DETECT_BROWSER_PREFERENCE = True
+THEME_COLOR_ENABLE_USER_OVERRIDE = True
+
+LOAD_CONTENT_CACHE = False
+CACHE_CONTENT = False
+
+'''
+Site configuration settings
+'''
+
 # Configuration settings for the blog
 AUTHOR = 'Phillip Bruno'  # Author's name
 SITENAME = "Phillip Bruno's Professional Portfolio"  # Site title
@@ -10,6 +41,7 @@ SITEURL = 'https://phillip-bruno.github.io'  # URL of the site
 SITEDESCRIPTION = """A bit about me and my career."""  # Description of the site
 SITELOGO = '/extra/computer_fire.png'  # Logo for the site ( favicon, header image)
 FAVICON = '/extra/favicon.ico'  # Favicon for the site
+
 
 # Domain and Feed settings
 DOMAIN = SITEURL  # Domain name of the site
@@ -32,14 +64,6 @@ TIMEZONE = 'America/Toronto'  # Timezone for the site
 
 # Default language and feed settings
 DEFAULT_LANG = 'en'  # Default language of the site
-
-# Feed generation is usually not desired when developing
-FEED_ALL_ATOM = None
-CATEGORY_FEED_ATOM = None
-TRANSLATION_FEED_ATOM = None
-AUTHOR_FEED_ATOM = None
-AUTHOR_FEED_RSS = None
-
 
 # Social media links and other metadata
 GITHUB_URL = "https://github.com/phillip-bruno"  # GitHub URL
@@ -68,6 +92,3 @@ CC_LICENSE = {
 # Copyright information and date
 COPYRIGHT_YEAR = datetime.now().year
 
-# Theme color settings
-THEME_COLOR_AUTO_DETECT_BROWSER_PREFERENCE = True
-THEME_COLOR_ENABLE_USER_OVERRIDE = True

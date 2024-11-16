@@ -28,7 +28,7 @@ Slug: skills
 
 ---
 
-# Project Management & Operations**
+# Project Management & Operations
 
 * ## Project Management Methodologies:
     * Scrum

@@ -7,7 +7,7 @@ Slug: career
 ---
 
 ## Lead Data Engineer, [Exostatic Inc.](https://www.exostatic.com/)
-### Exostatic Inc., Toronto, ON
+### Exostatic Inc., Montreal, QC
 #### 2021 - Present
 
  I work closely with clients to help identify and scope out new project opportunities, then guide them through the initial stages of development. Within my team, I'm responsible for delegating tasks to keep our workflow running smoothly and ensuring everyone has the support they need to succeed. As a developer, I contribute to the coding process and also offer guidance and mentorship to my colleagues, helping us build high-quality solutions together.

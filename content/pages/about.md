@@ -6,7 +6,7 @@ Slug: about
 
 ---
 
-## Developer and Manager
+## Data Engineer and Leader
 
 I'm a data expert with years of experience under my belt. My main passions are developing ETL solutions, building business intelligence tools, and digging into reporting analytics to uncover insights.
 

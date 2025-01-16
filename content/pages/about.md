@@ -2,11 +2,7 @@ Title: About Me
 Date: 2024-11-03 14:00
 Slug: about
 
-# Phillip Bruno
-
----
-
-## Data Engineer and Leader
+# Data Engineer and Leader
 
 I'm a data expert with years of experience under my belt. My main passions are developing ETL solutions, building business intelligence tools, and digging into reporting analytics to uncover insights.
 
